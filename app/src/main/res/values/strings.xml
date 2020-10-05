@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Permissions</string>
+    <string name="permission_request">To complete the action, this permission is required; without it we are not able to perform the action; please allow the permission</string>
+    <string name="write_storage">Write Storage</string>
+</resources>
